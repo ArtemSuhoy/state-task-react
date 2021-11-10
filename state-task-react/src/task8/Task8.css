@@ -1,0 +1,21 @@
+.dropdown {
+  width: 500px;
+  margin: 0 auto;
+}
+.dropdownButton {
+  width: 100%;
+  background-color: #d33;
+  border: none;
+}
+
+ul {
+  list-style: none;
+  width: 100%;
+  background-color: beige;
+  padding: 0px;
+}
+
+ul li {
+  text-align: center;
+  border: 1px solid #d3d3d3;
+}
