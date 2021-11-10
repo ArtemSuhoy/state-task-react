@@ -1,0 +1,9 @@
+.Task5{
+    display: flex;
+    height: 25px;
+    align-items: center;
+}
+
+.Task5 p{
+    margin-left: 20px;
+}
