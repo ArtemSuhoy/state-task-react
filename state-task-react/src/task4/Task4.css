@@ -1,0 +1,13 @@
+.redStyle {
+  margin: 0 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #900;
+}
+
+.blueStyle {
+  margin: 0 10px;
+  height: 50px;
+  width: 50px;
+  background-color: #009;
+}
