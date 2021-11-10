@@ -1,0 +1,33 @@
+.Task1 button{
+    border: none;
+    background-color: transparent;
+    font-size: 25px;
+    color: #1b334c;
+}
+
+.countThird{
+    
+    font-size: 25px;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75px;
+    background-color: #205790;
+    color: #fff;
+    border-radius: 40px;
+}
+
+.countThird span{
+    padding: 10px;
+}
+
+
+.countFourth{
+    margin: 30px 0 0 0;
+}
+
+.countFourth button{
+    padding: 5px;
+    border: 1px solid;
+}
