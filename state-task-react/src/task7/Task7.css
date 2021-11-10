@@ -1,0 +1,36 @@
+
+.dropdown{
+    margin: 0 auto;
+    width: 300px;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.dropdown ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.dropdown ul > li{
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 5px 0;
+}
+
+.dropdown ul > li:hover{
+    background-color: #FFE4E1;
+}
+
+.dropdown-button{
+    border: none;
+    width: 100%;
+    background-color: #8B0000;
+    color: #fff;
+}
+
+.dropdown-button:active{
+   background-color: #800000;
+   border: none;
+   outline: none;
+}
