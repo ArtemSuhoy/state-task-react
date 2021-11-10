@@ -1,0 +1,22 @@
+.Task12 {
+  display: flex;
+}
+.Task12 > * {
+  padding: 10px;
+}
+
+.colorBlack {
+  color: #000;
+}
+
+.colorRed {
+  color: #d33;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
